@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0056-merge-intervals) |
 | [0287-find-the-duplicate-number](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0056-merge-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0143-reorder-list) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
