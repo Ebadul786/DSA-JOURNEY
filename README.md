@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0645-set-mismatch) |
 | [0986-interval-list-intersections](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0986-interval-list-intersections) |
+| [1288-remove-covered-intervals](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0645-set-mismatch) |
+| [1288-remove-covered-intervals](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/1288-remove-covered-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
