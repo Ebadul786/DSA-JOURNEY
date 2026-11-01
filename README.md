@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0645-set-mismatch) |
+| [0986-interval-list-intersections](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0986-interval-list-intersections) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
+| [0986-interval-list-intersections](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
