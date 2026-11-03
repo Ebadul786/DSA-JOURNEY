@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0645-set-mismatch) |
 | [0986-interval-list-intersections](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0986-interval-list-intersections) |
 | [1288-remove-covered-intervals](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/1288-remove-covered-intervals) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Ebadul786/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
